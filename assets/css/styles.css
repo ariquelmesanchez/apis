@@ -1,17 +1,18 @@
-body {
+* {
+  background-color: lightcyan;
+}
+* body {
   font-family: Arial, sans-serif;
 }
-
-.container {
+* .container {
   max-width: 500px;
   margin: 0 auto;
   text-align: center;
 }
-
-.form-group {
+* .form-group {
   margin-bottom: 15px;
+  background-color: lightblue;
 }
-
-.error {
+* .error {
   color: red;
 }/*# sourceMappingURL=styles.css.map */

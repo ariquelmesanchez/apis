@@ -1,3 +1,6 @@
+*{
+    background-color: lightcyan;
+
 body {
     font-family: Arial, sans-serif;
 }
@@ -8,7 +11,8 @@ body {
 }
 .form-group {
     margin-bottom: 15px;
+    background-color: lightblue;
 }
 .error {
     color: red;
-}
+}}

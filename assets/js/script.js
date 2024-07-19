@@ -43,8 +43,10 @@ async function convertCurrency() {
                     data: values,
                     borderColor: 'blue',
                     backgroundColor: 'lightblue',
+                    fill: false
                 }]
-            }
+            },
+            
         });
     } catch (error) {
         console.error('Error:', error);
